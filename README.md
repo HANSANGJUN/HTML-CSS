@@ -1,3 +1,3 @@
 # HTML-CSS
-Flex Grid
-Desing
+1. Flex Grid
+2. Design
